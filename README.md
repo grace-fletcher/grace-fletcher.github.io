@@ -26,7 +26,7 @@ I met the course outcomes I planned to meet with this enhancement in Module One.
 
 I felt that the development process of improving this artifact was relatively straightforward. I learned that there are a bunch of options when it comes to SQL querying methods, and that you can do a lot with those methods in a python development environment. The only challenge I faced was getting the database working on my pc, since I had to download a bunch of software that was hardwired into the virtual environment I used initially when creating this project in October 2025. After overcoming this challenge, I now know everything that is needed in order to run and manage SQL databases on a local machine.  
 
-[Enhancement Three Artifact and Narrative]  
+[Enhancement Three Artifact and Narrative](https://github.com/grace-fletcher/grace-fletcher.github.io/tree/main/Enhancement%20Three)  
 
 ## Journals
 Throughout this course, I was tasked with writing journal entries to help me make meaningful connections between the course content and the larger goals of this course. In these journal entries, I shared my own personal opions and viewpoints to engage with course concepts and materials at a deeper, more reflective level. Any journal entries submitted during this course can be found here:  
