@@ -30,4 +30,5 @@ I felt that the development process of improving this artifact was relatively st
 
 ## Journals
 Throughout this course, I was tasked with writing journal entries to help me make meaningful connections between the course content and the larger goals of this course. In these journal entries, I shared my own personal opions and viewpoints to engage with course concepts and materials at a deeper, more reflective level. Any journal entries submitted during this course can be found here:  
+
 [Journal Entries](https://github.com/grace-fletcher/grace-fletcher.github.io/tree/main/Journals)
